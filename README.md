@@ -14,7 +14,3 @@ Backend: Node.js • Express • REST APIs • JWT • Bcrypt
 Database: MongoDB • MySQL • Mongoose  
 Cloud & Tools: Cloudinary • Multer • Git • Postman • Vercel • Render
 
-## Contact
-LinkedIn: linkedin.com/in/akhileswar999  
-Email: akhileswarareddy999@gmail.com  
-GitHub: github.com/Akhileswar936
