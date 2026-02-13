@@ -88,36 +88,6 @@ Secure Information Sharing Platform
 
 ---
 
-# 💼 Experience
-
-### Web Development Intern — Prodigy InfoTech  
-Jul 2025 – Aug 2025  
-- Built responsive UI components  
-- Developed interactive JS applications  
-- Integrated weather API  
-- Created accessible landing pages  
-
-### Full Stack Development Intern — SmartBridge  
-May 2025 – Jun 2025  
-- Built InfoEasy platform  
-- Implemented JWT authentication  
-- Developed RESTful APIs  
-
----
-
-# 🎓 Education
-
-**B.Tech (CSE)** — Rise Krishna Sai Prakasam Group of Institutions (2022 – 2026)  
-CGPA: 7.9 / 10  
-
-**Intermediate (MPC)** — Viswabharathi Junior College  
-Score: 9.2 / 10  
-
-**SSC** — ZPHS Thimmayapalem  
-Score: 9.5 / 10  
-
----
-
 # 🎯 Career Objective
 
 To contribute as a Full Stack or Backend Developer in a growth-driven organization, building scalable and secure systems while continuously advancing my technical expertise.
